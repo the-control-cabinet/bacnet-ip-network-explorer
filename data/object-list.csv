@@ -1,0 +1,14 @@
+object_type,type_number,instance,name,property,units,access_tested,value_read
+Device,8,48,RoomController.Simulator,,,discovered,
+Analog Input,0,0,Indoor Temperature,Present_Value(85),degC,read,20.5-20.8
+Analog Input,0,1,,,,listed,
+Analog Input,0,2,,,,listed,
+Analog Value,2,0,Set Point,Present_Value(85),degC,read,21
+Analog Value,2,1,,,,listed,
+Analog Value,2,2,,,,listed,
+Analog Value,2,3,,,,listed,
+Binary Value,5,0,,,,listed,
+Binary Value,5,1,,,,listed,
+Multi-state Value,19,0,,,,listed,
+Multi-state Value,19,1,,,,listed,
+CharacterString Value,40,0,,,,listed,

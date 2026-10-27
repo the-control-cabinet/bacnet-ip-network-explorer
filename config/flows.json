@@ -1,0 +1,9 @@
+[
+  {
+    "id": "example-bacnet-flow",
+    "type": "tab",
+    "label": "BACnet IP Explorer",
+    "disabled": false,
+    "info": "Example flow – import after installing node-red-contrib-bacnet"
+  }
+]
