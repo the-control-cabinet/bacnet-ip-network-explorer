@@ -218,6 +218,8 @@ Full record: [docs/03-commissioning-and-test-record.md](docs/03-commissioning-an
 - [ ] Read the BV and MSV objects and map their states (occupancy and mode).
 - [ ] Bring the points into HA as entities and trend them (links to the alarm and trend strategy project).
 - [ ] Compare against the Trend IQ411 on the portfolio rig.
+- [ ] **v2: Home Assistant's BACnet integration** (now in the default HACS store) against the YABE room-controller simulator: GUI discovery (Who-Is/I-Am), object selection, **COV** updates, and **writes with priorities** (it writes only on a user or automation action; discovery and polling change nothing). Compared with the Node-RED client from v1.
+- [ ] Later: the same client reading the [plant-points BACnet server](https://github.com/the-control-cabinet/plant-points-bacnet-server) and, if its firmware supports it, the Trend IQ411 over BACnet/IP.
 
 ## 15. Skills demonstrated (BMS / building automation)
 

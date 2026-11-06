@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.0] - 2026-11-06
+- Roadmap: v2 with Home Assistant's BACnet integration (default HACS) against the YABE simulator (discovery, COV, prioritised writes), then the plant-points server and the IQ411.
+
+
 ## [1.1.0] - 2026-10-26
 ### Changed
 - Documentation rebuilt from the captured evidence:
